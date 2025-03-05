@@ -11,5 +11,4 @@ Read our report detailing dozens of these connections, each of which trace hundr
 <!--<embed src="https://drive.google.com/file/d/1gl_rYjUH5t7psr-9GG7tPsNF_jF46YG_/view?usp=sharing"
     width="100%" height="780" style="border: none;">-->
     
-<iframe src="https://drive.google.com/file/d/1gl_rYjUH5t7psr-9GG7tPsNF_jF46YG_/preview" width="640" height="480"         
-    allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1gl_rYjUH5t7psr-9GG7tPsNF_jF46YG_/preview" width="100%" height="780" style="border: none;" allow="autoplay"></iframe>
