@@ -8,9 +8,5 @@ Members of our coalition have uncovered deep connections between U-M's endowment
 
 Read our report detailing dozens of these connections, each of which trace hundreds of millions of dollars to weapons manufacturers and surveillance tech, below.
 
-<embed src="https://drive.google.com/file/d/1QMZRZyKakiX2HNax1zlw4Q47lPmSb1EK/preview?=sharing"
+<embed src="https://drive.google.com/file/d/1gl_rYjUH5t7psr-9GG7tPsNF_jF46YG_/view?usp=sharing"
     width="100%" height="780" style="border: none;">
-
-<div class="flourish-embed" data-src="story/2176985">
-    <script src="https://public.flourish.studio/resources/embed.js"></script>
-</div>
