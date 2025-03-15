@@ -2,7 +2,7 @@
 layout:     post
 title:      "Israel Bombs, UCLA Researches"
 date:       2025-03-15
-categories: statements
+categories: media
 ---
 
 <b>DAY FOUR: Divestment White Paper Research Drop</b>
